@@ -1,9 +1,8 @@
 # Clustering
 
-Objective: After large-scale molecular docking, ligand clustering is used to remove the redundancy. Based on the ECFP4...
 
 Usage:
-
+python Clustering.py <input_file> cutoff
 
 Example:
 python ./clustering.py ./matrix_sample 0.5
